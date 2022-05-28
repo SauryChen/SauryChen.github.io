@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://saurychen.github.io/category/index.html</loc>
+    
+    <lastmod>2022-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://saurychen.github.io/tag/index.html</loc>
+    
+    <lastmod>2022-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://saurychen.github.io/hello_world/</loc>
     
     <lastmod>2022-05-17</lastmod>
@@ -28,28 +46,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://saurychen.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://saurychen.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://saurychen.github.io/</loc>
-    <lastmod>2022-05-17</lastmod>
+    <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
