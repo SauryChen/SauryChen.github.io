@@ -4,7 +4,7 @@
   <url>
     <loc>https://saurychen.github.io/about/index.html</loc>
     
-    <lastmod>2023-11-05</lastmod>
+    <lastmod>2023-11-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +112,7 @@
 
   <url>
     <loc>https://saurychen.github.io/</loc>
-    <lastmod>2023-11-05</lastmod>
+    <lastmod>2023-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,7 +120,7 @@
   
   <url>
     <loc>https://saurychen.github.io/tag/other/</loc>
-    <lastmod>2023-11-05</lastmod>
+    <lastmod>2023-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -129,14 +129,14 @@
   
   <url>
     <loc>https://saurychen.github.io/category/Others/</loc>
-    <lastmod>2023-11-05</lastmod>
+    <lastmod>2023-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://saurychen.github.io/category/Travel/</loc>
-    <lastmod>2023-11-05</lastmod>
+    <lastmod>2023-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
