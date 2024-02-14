@@ -121,36 +121,36 @@
 
   <url>
     <loc>https://saurychen.github.io/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-02-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://saurychen.github.io/tag/other/</loc>
-    <lastmod>2024-02-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://saurychen.github.io/tag/remote-sensing/</loc>
-    <lastmod>2024-02-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://saurychen.github.io/tag/earth-system-model/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://saurychen.github.io/tag/physical-parameterization-scheme/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://saurychen.github.io/tag/other/</loc>
+    <lastmod>2024-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://saurychen.github.io/tag/remote-sensing/</loc>
+    <lastmod>2024-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -158,22 +158,22 @@
 
   
   <url>
-    <loc>https://saurychen.github.io/category/Others/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <loc>https://saurychen.github.io/category/Research/</loc>
+    <lastmod>2024-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://saurychen.github.io/category/Research/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <loc>https://saurychen.github.io/category/Others/</loc>
+    <lastmod>2024-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://saurychen.github.io/category/Travel/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
