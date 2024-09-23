@@ -9,20 +9,22 @@ redirect_from:
 
 I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://www.dess.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). My major is atmospheric science, and I currently conduct research at the intersection of atmospheric science and artificial intelligence. I started working with Prof. [Haohuan Fu](http://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu) in Fall 2021, prior to that, I got my Bachelor's degree at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), majoring in Mechanical Engineering.
 
-A data-driven personal website
+👩🏻‍🎓 Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
++ *2021.09 - Now*       Ph.D Candidate in Department of Earth System Science, Tsinghua University, Beijing, China
+  + Teaching Assistant in Big Data Analytics for Global Change Studies
++ *2017.09 - 2021.08*   B. Eng in Shanghai Jiao Tong University, Shanghai, China
+  + Teaching Assistant in VM320 Fluid Mechanics and VM350 Design & Manufacturing
++ *2019.01 - 2019.02*   Winter Exchange Program in Istituto Tecnologico de Buenos Aires, Buenos Aires, Argentina
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+👩🏻‍💻 Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
++ *2024.08 - Now*       Research Intern @ National Supercomputing Center (Shenzhen)
+  + Weather predictablity and interpretability
++ *2021.03 - 2021.05*   Research Intern @ Pilot National Laboratory for Marine Science and Technology
+  + Optimization of NEMO ocean model on the Sunway Supercomputer
++ *2020.02 - 2021.02*   Research Intern @ National Supercomputing Center (Wuxi)
+  + Identifying deep convection with machine learning
 
 Site-wide configuration
 ------
