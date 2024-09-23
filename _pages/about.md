@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://www.dess.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). My major is atmospheric science, and I currently conduct research at the intersection of atmospheric science and artificial intelligence. I started working with Prof. [Haohuan Fu](http://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu) in Fall 2021, prior to that, I got my Bachelor's degree at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), majoring in Mechanical Engineering.
 
 A data-driven personal website
 ======
