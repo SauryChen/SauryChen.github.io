@@ -11,25 +11,25 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 
 👩🏻‍🎓 Education
 ======
-+ *2021.09 - Now* Ph.D Candidate in Department of Earth System Science, Tsinghua University, Beijing, China
-+ *2017.09 - 2021.08*   B. Eng in Shanghai Jiao Tong University, Shanghai, China
-+ *2019.01 - 2019.02*   Winter Exchange Program in Istituto Tecnologico de Buenos Aires, Buenos Aires, Argentina
++ **2021.09 - Now** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D Candidate in Department of Earth System Science, Tsinghua University, Beijing, China
++ **2017.09 - 2021.08** &nbsp;&nbsp;  B. Eng in Shanghai Jiao Tong University, Shanghai, China
++ **2019.01 - 2019.02** &nbsp;&nbsp;  Winter Exchange Program in Istituto Tecnologico de Buenos Aires, Buenos Aires, Argentina
 
 👩🏻‍💻 Experience
 ======
-+ *2024.08 - Now*       Research Intern @ National Supercomputing Center (Shenzhen)
++ **2024.08 - Now**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Research Intern @ National Supercomputing Center (Shenzhen)
   + Weather predictablity and interpretability
-+ *2021.03 - 2021.05*   Research Intern @ Pilot National Laboratory for Marine Science and Technology
++ **2021.03 - 2021.05**   &nbsp;&nbsp; Research Intern @ Pilot National Laboratory for Marine Science and Technology
   + Optimization of NEMO ocean model on the Sunway Supercomputer
-+ *2020.02 - 2021.02*   Research Intern @ National Supercomputing Center (Wuxi)
++ **2020.02 - 2021.02**  &nbsp;&nbsp;  Research Intern @ National Supercomputing Center (Wuxi)
   + Identifying deep convection with machine learning
 
 📑 Publication
 ======
-+ Decomposing weather forecasting into advection and convection with neural networks
++ **Decomposing weather forecasting into advection and convection with neural networks**
   + Mengxuan Chen, Ziqi Yuan, Jinxiao Zhang, Runmin Dong, Haohuan Fu
   + arXiv, 2024
-+ ResU‐Deep: Improving the Trigger Function of Deep Convection in Tropical Regions With Deep Learning
++ **ResU‐Deep: Improving the Trigger Function of Deep Convection in Tropical Regions With Deep Learning**
   + Mengxuan Chen, Haohuan Fu, Tao Zhang, Lanning Wang
   + Journal of Advances in Modeling Earth Systems, 2023
 
