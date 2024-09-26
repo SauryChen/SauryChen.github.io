@@ -24,6 +24,16 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 + *2020.02 - 2021.02*   Research Intern @ National Supercomputing Center (Wuxi)
   + Identifying deep convection with machine learning
 
+📑 Publication
+======
++ Decomposing weather forecasting into advection and convection with neural networks
+  + Mengxuan Chen, Ziqi Yuan, Jinxiao Zhang, Runmin Dong, Haohuan Fu
+  + arXiv, 2024
++ ResU‐Deep: Improving the Trigger Function of Deep Convection in Tropical Regions With Deep Learning
+  + Mengxuan Chen, Haohuan Fu, Tao Zhang, Lanning Wang
+  + Journal of Advances in Modeling Earth Systems, 2023
+
+
 🎯 Awards
 ======
 + *2021* Outstanding graduate of Shanghai Jiao Tong University
@@ -31,7 +41,7 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 + *2020* Undergraduate progress scholar
 + *2019* Undergraduate progress scholar
 
-📑 Teaching Experience
+📖 Teaching Experience
 ======
 + *2022SU* Teaching Assistant in Big Data Analytics for Global Change Studies
 + *2021SU* Teaching Assistant in VM350 Design & Manufacturing
