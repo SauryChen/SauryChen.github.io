@@ -18,7 +18,7 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 👩🏻‍💻 Experience
 ======
 + **2024.08 - Now**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Research Intern @ National Supercomputing Center (Shenzhen)
-  + Weather predictablity and interpretability
+  + Weather predictablity and interpretability, flood season predictions
 + **2021.03 - 2021.05**   &nbsp;&nbsp; Research Intern @ Pilot National Laboratory for Marine Science and Technology
   + Optimization of NEMO ocean model on the Sunway Supercomputer
 + **2020.02 - 2021.02**  &nbsp;&nbsp;  Research Intern @ National Supercomputing Center (Wuxi)
@@ -36,14 +36,14 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 
 🎯 Awards
 ======
-+ *2024* Tsinghua comprehensive scholarship
-+ *2021* Outstanding graduate of Shanghai Jiao Tong University
-+ *2021* Undergraduate progress scholarship
-+ *2020* Undergraduate progress scholarship
-+ *2019* Undergraduate progress scholarship
++ *2024* &nbsp;Tsinghua comprehensive scholarship
++ *2021* &nbsp;Outstanding graduate of Shanghai Jiao Tong University
++ *2021* &nbsp;Undergraduate progress scholarship
++ *2020* &nbsp;Undergraduate progress scholarship
++ *2019* &nbsp;Undergraduate progress scholarship
 
 📖 Teaching Experience
 ======
-+ *2022SU* Teaching Assistant in Big Data Analytics for Global Change Studies
-+ *2021SU* Teaching Assistant in VM350 Design & Manufacturing
-+ *2020FA* Teaching Assistant in VM320 Fluid Mechanics
++ *2022SU* &nbsp;Teaching Assistant in Big Data Analytics for Global Change Studies
++ *2021SU* &nbsp;Teaching Assistant in VM350 Design & Manufacturing
++ *2020FA* &nbsp;Teaching Assistant in VM320 Fluid Mechanics
