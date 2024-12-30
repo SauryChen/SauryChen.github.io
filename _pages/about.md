@@ -36,10 +36,11 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 
 🎯 Awards
 ======
++ *2024* Tsinghua comprehensive scholarship
 + *2021* Outstanding graduate of Shanghai Jiao Tong University
-+ *2021* Undergraduate progress scholar
-+ *2020* Undergraduate progress scholar
-+ *2019* Undergraduate progress scholar
++ *2021* Undergraduate progress scholarship
++ *2020* Undergraduate progress scholarship
++ *2019* Undergraduate progress scholarship
 
 📖 Teaching Experience
 ======
